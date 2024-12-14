@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Archana-Nikam
-- 👀 I’m interested in Full stack development
+- 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning new technologies and frameworks to enhance my skills.
 
 - 💞️ I’m looking to collaborate on projects that involve innovative web development solutions and teamwork.
